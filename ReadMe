@@ -1,0 +1,30 @@
+# 🏥 Hospital Management System (Tkinter + MySQL)
+
+A desktop-based **Hospital Management System** built with **Python Tkinter** and **MySQL**.  
+This system allows storing, updating, deleting, and retrieving patient & prescription records efficiently.
+
+---
+
+## 🚀 Features
+- Add new patient & prescription records  
+- Update existing records  
+- Delete records using Reference Number  
+- Reset/Clear all input fields  
+- Search & view patient details in a tabular format  
+- Auto-fetch records into the Tkinter TreeView table  
+- MySQL database integration for secure storage  
+
+---
+
+## 🛠️ Tech Stack
+- **Python (Tkinter)** – GUI frontend  
+- **MySQL (pymysql)** – Database management  
+- **ttk (TreeView)** – For displaying patient records in a table  
+
+---
+
+## 📂 Project Structure
+hospital_management/
+│-- hospital.py # Main Python Tkinter application
+│-- requirements.txt # Dependencies
+│-- README.md # Documentation
